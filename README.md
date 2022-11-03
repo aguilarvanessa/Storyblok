@@ -25,9 +25,9 @@ The way storyblock is connected to our application is  through this API preview 
         Need to interact with Storyblok API 
 	npm i storyblok-js-client
         This client is a thin wrapper for the storyblok API’s 
-  npm i storyblok-rich-text-react-renderer-ts
-  npm i storyblok-rich-text-react-renderer
-        Both used for working with storyblocks rich text feature
+	npm i storyblok-rich-text-react-renderer-ts
+	npm i storyblok-rich-text-react-renderer
+	     Both used for working with storyblocks rich text feature
 	npm i axios 
         Enables is to fetch content using the API, optional, theres other ways storyblok has made it easier to fetch data. 
   
